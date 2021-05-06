@@ -13,3 +13,8 @@ See the example using simulated data in TestData/simulateddata.m
 ## Questions, suggestions and improvements
 
 Email alexandra.young@ucl.ac.uk
+
+
+## PySuStaIn
+
+A python version of SuStaIn with additional features is available at https://github.com/ucl-pond/pySuStaIn.
